@@ -4,7 +4,7 @@
 ### 👯 I’m looking to collaborate on a web app for restaurant bookings
 - 🤔 I’m looking for help with ...
 ### 💬 Ask me about Investing, Fintech, and Stanford GSB MBA
-### 📫 How to reach me: LinkedIn
+### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kieran-carty-64543948/)
 ### 😄 Pronouns: He/Him
 ### ⚡ Fun fact: I am a fraternal twin 👫🏾
 <!--
