@@ -1,12 +1,12 @@
 ### Hi there 👋
-### 🔭 I’m currently working on an AI agent to provide real-time prompts to mortgage servicing call center agents, reducing call handling times by 25%
-### 🌱 I’m currently learning SQL and Python through CS106 at Stanford
-### 👯 I’m looking to collaborate on a web app for restaurant bookings
-- 🤔 I’m looking for help with ...
-### 💬 Ask me about Investing, Fintech, and Stanford GSB MBA
-### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kieran-carty-64543948/)
-### 😄 Pronouns: He/Him
-### ⚡ Fun fact: I am a fraternal twin 👫🏾
+- 🔭 I’m currently working on an AI agent to provide real-time prompts to mortgage servicing call center agents
+- 🌱 I’m currently learning SQL and Python through CS106 at Stanford
+- 👯 I’m looking to collaborate on a web app for restaurant bookings
+- 🤔 I’m looking for help with building an after-school enrichment Curriculum 
+- 💬 Ask me about Investing, Fintech, and Stanford GSB MBA
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kieran-carty-64543948/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a fraternal twin 👫🏾
 <!--
 **K-Carty/K-Carty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
