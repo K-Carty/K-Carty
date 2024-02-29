@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on an AI agent to provide real-time prompts to mortgage servicing call center agents
-- 🌱 I’m currently learning SQL and Python through CS106 at Stanford
-- 👯 I’m looking to collaborate on a web app for restaurant bookings
+- 🌱 I’m currently (re)learning SQL and Python through CS106 at Stanford
+- 👯 I’m looking to collaborate on a web app for side-hustle optimizing
 - 🤔 I’m looking for help with building an after-school enrichment Curriculum 
 - 💬 Ask me about Investing, Fintech, and Stanford GSB MBA
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kieran-carty-64543948/)
