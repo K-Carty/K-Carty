@@ -1,4 +1,5 @@
 ### Hi there 👋
+- I completed the Makers Software Engineering program in September 2022 and have been coding ever since
 - 🔭 I’m currently working on an AI agent to provide real-time prompts to mortgage servicing call center agents
 - 🌱 I’m currently (re)learning SQL and Python through CS106 at Stanford
 - 👯 I’m looking to collaborate on a web app for side-hustle optimizing
