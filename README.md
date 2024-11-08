@@ -1,10 +1,10 @@
 ### Hi there 👋
 - I completed the Makers Software Engineering program in September 2022 and have been coding ever since
-- 🔭 I’m currently working on an AI agent to provide real-time prompts to mortgage servicing call center agents
+- 🔭 I’m currently working on a fintech idea 
 - 🌱 I’m currently (re)learning SQL and Python through CS106 at Stanford
-- 👯 I’m looking to collaborate on a web app for side-hustle optimizing
+- 👯 I’m looking to collaborate on a cross-border investing app / plug-in
 - 🤔 I’m looking for help with building an after-school enrichment Curriculum 
-- 💬 Ask me about Investing, Fintech, and Stanford GSB MBA
+- 💬 Ask me about Black British Music, Investing, Fintech, and Stanford GSB MBA
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kieran-carty-64543948/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a fraternal twin 👫🏾
